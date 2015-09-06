@@ -3,6 +3,10 @@ SIAlertView
 
 An UIAlertView replacement with block syntax and fancy transition styles. As seen in [Grid Diary](http://griddiaryapp.com/).
 
+add 
+`@property (nonatomic, readonly, getter = isVisible) BOOL visible;`
+`@property (nonatomic, assign) BOOL closeButtonVisible;`
+
 [![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=Sumi-Interactive&url=https://github.com/Sumi-Interactive/SIAlertView&title=SIAlertView&tags=github&category=software)
 
 ## Preview
